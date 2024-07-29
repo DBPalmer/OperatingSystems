@@ -1,0 +1,32 @@
+[31;40mSIGNATURE: 53616c7465645f5f02550671acae0e3e16c53b534834a25d31157c5a76044b1d150d784ca52da9dca56ac81020cd3c40
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added help command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added echo command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added cat command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added ls command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added cd command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added rm command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added link command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added rmdir command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added mkdir command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added stat command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added exit command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added sunghan command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added deadlock command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added faber command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added vfs command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added thrtest command
+[0m[31;40mtest/kshell/kshell.c:98 kshell_add_command(): Added dirtest command
+[0m[31;40mtest/kshell/kshell.c:133 kshell_create(): kshell successfully created on TTY 0
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'dirtest'
+[0m[31;40mtest/kshell/kshell.c:446 kshell_execute_next(): Attempting to execute command 'exit'
+[0m[31;40mtest/kshell/kshell.c:145 kshell_destroy(): kshell with file descriptor 0 destroyed
+[0mweenix: vfs shutdown...
+
+weenix: halted cleanly!
